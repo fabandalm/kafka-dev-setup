@@ -1,2 +1,2 @@
-# kafka-k8s
+# kafka-dev-setup
 Kafka Configuration using kubernetes
