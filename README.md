@@ -1,2 +1,2 @@
 # kafka-dev-setup
-Kafka Configuration using kubernetes
+Kafka Development Setup
