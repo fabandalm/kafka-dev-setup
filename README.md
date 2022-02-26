@@ -1,2 +1,2 @@
-# kafka-dev-setup
+# Kafka Development Setup
 Kafka Development Setup
