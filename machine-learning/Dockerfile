@@ -7,4 +7,4 @@ RUN pip install fastapi
 RUN pip install joblib
 RUN pip install sklearn
 
-CMD [ "python", "/app/app.py" ] 
+CMD [ "python", "/ml_app/app.py" ] 
